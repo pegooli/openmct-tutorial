@@ -34,10 +34,10 @@ var objectProvider = {
 	}		
 };
 
-var objectType = {
+var objectType = {	
 	name: 'Example Telemetry Point',
-    description: 'Example telemetry point from our happy tutorial.',
-    cssClass: 'icon-telemetry'		
+	description: 'Example telemetry point from our happy tutorial.',
+	cssClass: 'icon-telemetry'		
 };
 
 var compositionProvider = {
